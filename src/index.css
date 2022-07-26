@@ -244,6 +244,18 @@ footer {
   background-size: 100%;
 }
 
+.Resume-Container {
+  width: 1200px;
+  height: 1500px;
+}
+
+.Resume-Img {
+  width: 1500px;
+  height: 1100px;
+  background-image: url(/src/Assets/Desktop\ Screenshot\ 2022.07.23\ -\ 15.24.40.48\ \(2\).png);
+  background-size: 100%;
+}
+
 @media screen and (max-width: 768px) {
   .card {
     width: 100%;
