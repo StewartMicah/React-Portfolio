@@ -19,11 +19,9 @@ const Portfolio = () => {
       </h4>
       <h3>Projects</h3>          
       <h4>
-        <h4>Portfolio (React, TypeScript, NodeJS, Express, Heroku)</h4>
-        <h4>➔ Leveraged react router for navigation among views and
-      url handling.</h4>
-        <h4>➔ Used react forms to handle and submit multiple inputs to
-      an express backend and store the information in a NoSQL database.</h4>
+        <h4>Portfolio (React, Heroku)</h4>
+        <h4>➔ developed a react website to allow potential employers to contact me.</h4>
+        <h4>➔ made use of css to give the page a minimalistic look</h4>
         <h4>➔ Built,
       deployed, and configured the project with a continuous deployment cycle to
       a cloud hosted solution.</h4>
