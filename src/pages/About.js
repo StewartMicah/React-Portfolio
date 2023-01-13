@@ -9,7 +9,7 @@ const About = () => {
         <a
             href="https://quicklyhire.com/"
           > Quickly Hire </a>
-          where I help companies of all sizes achieve their goals
+          where I help companies of all sizes achieve their goals.
       </div>
     </div>
   );

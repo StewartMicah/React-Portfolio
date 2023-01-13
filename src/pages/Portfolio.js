@@ -21,7 +21,7 @@ const Portfolio = () => {
       <h4>
         <h4>Portfolio (React, Heroku)</h4>
         <h4>➔ developed a react website to allow potential employers to contact me.</h4>
-        <h4>➔ made use of css to give the page a minimalistic look</h4>
+        <h4>➔ Utilized firebase/firestore to store message data.</h4>
         <h4>➔ Built,
       deployed, and configured the project with a continuous deployment cycle to
       a cloud hosted solution.</h4>

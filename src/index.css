@@ -149,6 +149,29 @@ input:focus {
   box-shadow: 0 0 .25rem rgba(0, 0, 0, .5);
 }
 
+.input {
+  
+}
+
+.who {
+
+}
+
+.Message{
+  width: 700px;
+  height: 400px;
+  resize: none;
+  font-size: 1rem;
+}
+
+.submitButton{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  width: 4rem;
+}
+
 .nav {
   display: flex;
   justify-content: space-between;
